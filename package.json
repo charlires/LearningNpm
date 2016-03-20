@@ -1,0 +1,28 @@
+{
+  "name": "learningnpm",
+  "version": "0.1.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlires/LearningNpm.git"
+  },
+  "author": "Carlos Andonaegui <charlires@gmail.com>",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/charlires/LearningNpm/issues"
+  },
+  "homepage": "https://github.com/charlires/LearningNpm#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
