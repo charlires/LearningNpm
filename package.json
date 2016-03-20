@@ -1,6 +1,6 @@
 {
   "name": "learningnpm",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "test project",
   "main": "index.js",
   "scripts": {
